@@ -1,5 +1,5 @@
 # 💫 About Me:
-Good Day/Night<br>I am Dan Jefferson B. Acera<br>20 Years Old<br>I am currently studying Bachelor of Information Technology Major in Database Systems at Mindanao State University at Naawan from the Philippiones
+Good Day/Night<br>I am Dan Jefferson B. Acera<br>20 Years Old<br>I am currently studying Bachelor of Science in Information Technology Major in Database Systems at Mindanao State University at Naawan from the Philippiones
 
 
 # 💻 Tech Stack:
